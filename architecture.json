@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_mythopoeic_spiritual_seeking",
+  "title": "The Library of the Green Maw",
+  "tagline": "A skeptical professor journeys into a living jungle to find his missing father and uncovers a heresy where saints, stories, and the land are one.",
+  "target_words": 70000,
+  "actual_words": 65938,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Landscape as Sacred Text",
+    "Inherited Haunting & Familial Curses",
+    "The Collision of Academic Rationality and Mythic Reality",
+    "Syncretic Spirituality as Rebellion"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Knot in the Rosary",
+      "words": 2747
+    },
+    {
+      "ch": 2,
+      "title": "The Grammar of the Jungle",
+      "words": 2747
+    },
+    {
+      "ch": 3,
+      "title": "The Breath of the Bones",
+      "words": 2747
+    },
+    {
+      "ch": 4,
+      "title": "Santa María de la Lluvia",
+      "words": 2747
+    },
+    {
+      "ch": 5,
+      "title": "The Saint Who Was a Jaguar",
+      "words": 2747
+    },
+    {
+      "ch": 6,
+      "title": "The Poet's Last Clue",
+      "words": 2747
+    },
+    {
+      "ch": 7,
+      "title": "The Key to the Quiet Door",
+      "words": 2747
+    },
+    {
+      "ch": 8,
+      "title": "Into the Library",
+      "words": 2747
+    },
+    {
+      "ch": 9,
+      "title": "The First Story-Tree",
+      "words": 2747
+    },
+    {
+      "ch": 10,
+      "title": "Chicha and Stone Tears",
+      "words": 2747
+    },
+    {
+      "ch": 11,
+      "title": "The Map of Scars",
+      "words": 2747
+    },
+    {
+      "ch": 12,
+      "title": "The Heresy of Bartolomé",
+      "words": 2747
+    },
+    {
+      "ch": 13,
+      "title": "The Rumor He Becomes",
+      "words": 2747
+    },
+    {
+      "ch": 14,
+      "title": "The Council of Howlers",
+      "words": 2747
+    },
+    {
+      "ch": 15,
+      "title": "The Weaving of the Walkways",
+      "words": 2747
+    },
+    {
+      "ch": 16,
+      "title": "The Sacrament in Decomposition",
+      "words": 2747
+    },
+    {
+      "ch": 17,
+      "title": "The Damp Idea of Creation",
+      "words": 2747
+    },
+    {
+      "ch": 18,
+      "title": "The Unspoken Name",
+      "words": 2747
+    },
+    {
+      "ch": 19,
+      "title": "The Mirror-Tarnished River",
+      "words": 2747
+    },
+    {
+      "ch": 20,
+      "title": "The Waiting Room",
+      "words": 2747
+    },
+    {
+      "ch": 21,
+      "title": "The Living Myth",
+      "words": 2747
+    },
+    {
+      "ch": 22,
+      "title": "The Container of Answers",
+      "words": 2747
+    },
+    {
+      "ch": 23,
+      "title": "The Untying",
+      "words": 2747
+    },
+    {
+      "ch": 24,
+      "title": "The Returned Saint",
+      "words": 2747
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a journal entry from Father Bartolomé's perspective the day he decided to merge the Franciscan saint with the jaguar spirit.",
+      "Describe a 'story-tree' in the jungle library from the perspective of Tito, the old man with the pith helmet. What myth does it hold, and how is it 'read'?",
+      "Create the 'last letter' from Sebastián to the university, explaining why he is not returning, weaving in a metaphor from the jungle that replaces academic terminology.",
+      "Script a dialogue between Yara and the skeptical launch boy, years before Sebastián arrives, where she explains why the mission accepts 'seekers' like his father."
+    ],
+    "technical": [
+      "Build an interactive map of Santa María de la Lluvia where hovering over structures (the casa cural, the laundry line, the jaguar-saint altar) reveals layered audio clips: jungle sounds, character dialogue, and poetic fragments.",
+      "Create a 'Metaphor Engine' text tool: a user inputs a rational, academic description of an object or event, and the engine rewrites it in the novel's mythopoeic style, using imagery of decay, growth, and syncretic spirituality."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gabriel García Márquez",
+      "Isabel Allende",
+      "Jorge Luis Borges",
+      "Pablo Neruda"
+    ]
+  },
+  "cover_prompt": "A skeptical professor, his academic demeanor fraying into awe, reaches out to touch a pulsating vein of bioluminescent script that flows across the bark of a colossal, living tree within the Green Maw, [Detailed Scene & Context: The jungle is a cathedral of fused biology and narrative; vines form illuminated sentences, flowers bloom with saintly iconography, and the very air hums with whispered heresies. The skeletal remains of an old research camp, including his father's weathered journal, are being gently consumed by the roots at his feet], [Artistic Style & Medium: in the atmospheric and mythic style of Zdzisław Beksiński meets Remedios Varo, rendered in hyper-detailed oil painting with elements of mystical surrealism and organic decay], [Composition & Camera: book cover framing, a centered and intimate composition looking over the professor's shoulder, a dramatic low angle emphasizing the towering, textual canopy above him], [Lighting & Color Palette: dramatic chiaroscuro lighting where the only light sources are the emerald and gold bioluminescence of the living text and a single shaft of misty, celestial sunlight, a palette of deep jungle greens, earthy umbers, sacred golds, and eerie spectral violets], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
